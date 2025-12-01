@@ -43,23 +43,6 @@ SSD300 + VGG16 Backbone 기반의 객체 탐지(Object Detection) 프로젝트�
 	•	IoU matrix 기반 matching
 	•	trapezoidal integration 사용
 
-⸻
-
-📂 Project Structure
-
-📁 SSD300-Custom-Transform
-│
-├── train.py              # 학습 루프 + loss logging
-├── transforms_custom.py  # RandomFaceCrop / LetterBoxResize
-├── dataset.py            # XML 파싱 + transform 적용 데이터셋
-├── eval_simple.py        # Precision/Recall/mIoU evaluator
-├── eval_map.py           # Custom mAP evaluator
-│
-└── README.md
-
-
-⸻
-
 🧪 Evaluation Example
 
 ===== SSD Evaluation (thr=0.5) =====
