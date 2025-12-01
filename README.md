@@ -1,7 +1,3 @@
-아래는 너 지금 진행 중인 SSD300 + Custom Transform 프로젝트용 README.md 초안이야.
-딱 깃허브에 바로 붙여 넣으면 되는 형태로 작성해줬어.
-너가 실제로 쓴 코드 흐름 + 검증 방식(mAP/Precision/Recall) + custom transform 포함 구조까지 반영됨.
-
 ⸻
 
 📦 SSD300 Custom Transform Object Detection
